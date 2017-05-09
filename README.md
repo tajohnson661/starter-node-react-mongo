@@ -45,7 +45,7 @@ tail -f /usr/local/var/log/mongodb/mongo.log (in a separate shell)
 Ok, you're ready to go.  Now set up the project by installing libraries for both the client and server...
 
 ```
-git clone git@github.com:tajohnson661/node-starter-react-mongo.git your_project
+git clone git@github.com:tajohnson661/starter-node-react-mongo.git your_project
 cd your_project
 yarn install
 
