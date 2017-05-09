@@ -1,0 +1,16 @@
+
+
+# Configuration
+.env
+server/config/local.js
+
+# npm
+node_modules
+npm-debug.log
+
+# testing
+/coverage
+.nyc_output
+
+# IDEs
+.idea/
